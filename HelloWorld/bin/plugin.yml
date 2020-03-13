@@ -1,0 +1,10 @@
+name: HelloWorld
+version: 1.0
+author: simplenmm
+main: me.simplenmm.helloworld.Main
+decription: First spigot plugin.
+
+commands:
+  hello:
+   aliases: [hi]
+   description: This is the hello command.
